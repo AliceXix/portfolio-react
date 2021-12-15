@@ -23,7 +23,7 @@ export const ProjectList = [
     img: "project - social gratitude.jpeg",
     title: "Social Gratitude",
     description: "Bootcamp project after 7,5 weeks. Social Gratitude let's you share what you are grateful for with your social environment.",
-    tech_stack: "React, CSS, JavaScript, Express, Node, MongoDB, RESTful API,",
+    tech_stack: "React, CSS, JavaScript, Express, Node, MongoDB, RESTful API",
     github_url: "https://github.com/Alice-Nekruz/social-gratitude-server",
     demo_url: "https://social-gratitude.netlify.app",
   },

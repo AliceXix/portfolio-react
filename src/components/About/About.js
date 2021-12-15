@@ -19,10 +19,6 @@ function About() {
       <div className="Container">
         <div className="SectionTitle">About Me</div>
         <div className="BigCard">
-          <Image
-            src={img}
-            alt="man-svgrepo"
-          />
           <div className="AboutBio">
             Hi there! I'm <strong>Alice</strong>!
             <br></br>
