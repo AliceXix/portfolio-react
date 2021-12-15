@@ -24,7 +24,7 @@ function About() {
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Alice</strong>!
+            Hi there! I'm <strong>Alice</strong>!
             <br></br>
             <br></br>
             I come form a sports, outdoor and teaching background.
