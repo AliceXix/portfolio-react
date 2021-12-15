@@ -5,19 +5,19 @@ export const ProjectList = [
   {
     img: "project - fliperz.jpeg",
     title: "Fliperz",
-    description: "Bootcamp project after 2 weeks, Fliperz is a flashcard based learning game.",
+    description: "Bootcamp project after 2 weeks. Fliperz is a flashcard based learning game.",
     tech_stack: "HTML, CSS, JavaScript",
     github_url: "https://github.com/AliceXix/learning-game-flashcards",
     demo_url: "https://alicexix.github.io/learning-game-flashcards/",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png",
-    title: "Fiber",
+    img: "project - moodshaker.jpeg",
+    title: "Moodshaker",
     description:
-      "An online portfolio generator. Great to practice flex/grid layouts, absolute positioning and sliders.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+      "Bootcamp project after 5 weeks. With Moodshaker you get activity ideas tailored to how you feel.",
+    tech_stack: "HTML, CSS, JavaScript, Handelbars, Express, Node, MongoDB",
+    github_url: "https://github.com/AliceXix/moodshaker",
+    demo_url: "https://mood-shaker.herokuapp.com",
   },
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
