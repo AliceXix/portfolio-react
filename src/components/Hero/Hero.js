@@ -28,7 +28,7 @@ function Hero() {
             <h1>Hi, I'm Alice</h1>
             <h5>Fullstack Developer</h5>
             <p>
-              I am passionate about what I do. That is how I know, I am good at it.
+              I am passionate about what I do & that is how I know, I am good at it.
             </p>
           </HeroLeft>
           <HeroRight>
