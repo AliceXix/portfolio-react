@@ -60,4 +60,58 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/responsive.svg",
     name: "Responsive",
   },
+  {
+    img: "logos/agile_logo.jpg",
+    name: "Agile"
+  },
+  {
+    img: "logos/nodejs_logo.svg",
+    name: "NodeJS"
+  },
+  {
+    img: "logos/express_logo.png",
+    name: "ExpressJS"
+  },
+  {
+    img: "logos/mongodb-logo.png",
+    name: "MongoDB"
+  },
 ];
+
+export const stackListLearning = [
+  {
+    img: "logos/react-hooks_logo.png",
+    name: "React Hooks"
+  },
+  {
+    img: "logos/Typescript_logo.svg",
+    name: "TypeScript"
+  },
+  {
+    img: "logos/TDD_logo.webp",
+    name: "TDD"
+  },
+  {
+    img: "logos/jest_logo.jpeg",
+    name: "Jest"
+  },
+  {
+    img: "logos/golang_logo.png",
+    name: "Golang"
+  },
+]
+
+export const stackListInterest = [
+  {
+    img: "/public/logos/AWS_logo.png",
+    name: "AWS"
+  },
+  {
+    img: "logos/docker_logo.png",
+    name: "Docker"
+  },
+  {
+    img: "logos/postgresql_logo.jpg",
+    name: "postgreSQL"
+  },
+]
