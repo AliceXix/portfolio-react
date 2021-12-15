@@ -1,5 +1,7 @@
 import React from "react";
-import { stackList } from "../../data/ProjectData";
+import { stackList,
+  stackListLearning
+} from "../../data/ProjectData";
 import {
   Image,
   Technologies,
@@ -54,6 +56,18 @@ function About() {
           <br></br>
           <div className="AboutBio tagline2">
             I am currently learning to use the following technologies..
+          </div>
+          <Technologies>
+            {stackListLearning.map((stack, index) => (
+              <Tech key={index} className="tech">
+                <TechImg src ={stack.img} alt={stack.name} />
+                <TechName>{stack.name}</TechName>
+              </Tech>
+            ))}
+          </Technologies>
+          <br></br>
+          <div className="AboutBio tagline2">
+            I am interested in working in the future with the following technologies..
           </div>
         </div>
       </div>
