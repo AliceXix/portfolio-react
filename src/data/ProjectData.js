@@ -46,15 +46,27 @@ export const stackList = [
   },
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/react.svg",
-    name: "ReactJS",
+    name: "React classes",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/bootstrap.svg",
-    name: "Bootstrap",
+    img: "logos/nodejs_logo.svg",
+    name: "NodeJS"
+  },
+  {
+    img: "logos/expressjs_logo.png",
+    name: "ExpressJS"
+  },
+  {
+    img: "logos/mongodb-logo.png",
+    name: "MongoDB"
   },
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/git.svg",
     name: "Git",
+  },
+  {
+    img: "logos/rest-api.png",
+    name: "RESTful API",
   },
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/responsive.svg",
@@ -63,18 +75,6 @@ export const stackList = [
   {
     img: "logos/agile_logo.jpg",
     name: "Agile"
-  },
-  {
-    img: "logos/nodejs_logo.svg",
-    name: "NodeJS"
-  },
-  {
-    img: "logos/express_logo.png",
-    name: "ExpressJS"
-  },
-  {
-    img: "logos/mongodb-logo.png",
-    name: "MongoDB"
   },
 ];
 
@@ -103,7 +103,7 @@ export const stackListLearning = [
 
 export const stackListInterest = [
   {
-    img: "/public/logos/AWS_logo.png",
+    img: "logos/AWS_logo.png",
     name: "AWS"
   },
   {

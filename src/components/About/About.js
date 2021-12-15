@@ -1,6 +1,7 @@
 import React from "react";
 import { stackList,
-  stackListLearning
+  stackListLearning,
+  stackListInterest,
 } from "../../data/ProjectData";
 import {
   Image,
@@ -42,8 +43,11 @@ function About() {
             And all of this to say I guess, I love what I do, I gave a lot to be able to do it on a daily basis and I want to find a match in a company that values my thrive for knowledge.
           </div>
           <br></br>
+          <br></br>
+          <hr></hr>
+          <br></br>
           <div className="AboutBio tagline2">
-            I have become confident using the following technologies..
+            <strong>I can work with..</strong>
           </div>
           <Technologies>
             {stackList.map((stack, index) => (
@@ -54,8 +58,10 @@ function About() {
             ))}
           </Technologies>
           <br></br>
+          <hr></hr>
+          <br></br>
           <div className="AboutBio tagline2">
-            I am currently learning to use the following technologies..
+            <strong>I am currently learning..</strong>
           </div>
           <Technologies>
             {stackListLearning.map((stack, index) => (
@@ -66,9 +72,19 @@ function About() {
             ))}
           </Technologies>
           <br></br>
+          <hr></hr>
+          <br></br>
           <div className="AboutBio tagline2">
-            I am interested in working in the future with the following technologies..
+            <strong>I am curious about..</strong>
           </div>
+          <Technologies>
+            {stackListInterest.map((stack, index) => (
+              <Tech key={index} className="tech">
+                <TechImg src={stack.img} alt={stack.name} />
+                <TechName>{stack.name}</TechName>
+              </Tech>
+            ))}
+          </Technologies>
         </div>
       </div>
     </ContactWrapper>
