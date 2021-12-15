@@ -1,12 +1,14 @@
+
+
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
-    title: "Spense",
-    description: "Codewell challenge, Spense is a landing page for writers.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+    img: "project - fliperz.jpeg",
+    title: "Fliperz",
+    description: "Bootcamp project after 2 weeks, Fliperz is a flashcard based learning game.",
+    tech_stack: "HTML, CSS, JavaScript",
+    github_url: "https://github.com/AliceXix/learning-game-flashcards",
+    demo_url: "https://alicexix.github.io/learning-game-flashcards/",
   },
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png",
@@ -58,10 +60,6 @@ export const stackList = [
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/bootstrap.svg",
     name: "Bootstrap",
-  },
-  {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/sass.svg",
-    name: "Scss",
   },
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/git.svg",
