@@ -20,21 +20,12 @@ export const ProjectList = [
     demo_url: "https://mood-shaker.herokuapp.com",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
-    title: "Portfolio",
-    description: "Ofcourse i made my own personal portfolio website.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link/",
-  },
-  {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
-    title: "Ecommerce website",
-    description:
-      "Created simple ecommerce website using reactjs and react-use-cart plugin.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+    img: "project - social gratitude.jpeg",
+    title: "Social Gratitude",
+    description: "Bootcamp project after 7,5 weeks. Social Gratitude let's you share what you are grateful for with your social environment.",
+    tech_stack: "React, CSS, JavaScript, Express, Node, MongoDB, RESTful API,",
+    github_url: "https://github.com/Alice-Nekruz/social-gratitude-server",
+    demo_url: "https://social-gratitude.netlify.app",
   },
 ];
 
