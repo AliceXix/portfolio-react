@@ -1,7 +1,7 @@
 import React from "react";
 import { Nav, Logo, NavLink, Bars, NavMenu, NavBtn } from "./HeaderElements";
 import logo from "../../Assets/br.png"
-import application from "../../Assets/application - jost.pdf"
+import application from "../../Assets/CV - jost.pdf"
 
 const Header = ({ toggle }) => {
   return (
