@@ -52,15 +52,6 @@ function FixSocialIcon() {
             <FaGithub />
           </a>
         </li>
-        <li className="item">
-          <a
-            href="https://github.com/AliceXix"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <FaInstagram />
-          </a>
-        </li>
       </ul>
     </Social>
   );
