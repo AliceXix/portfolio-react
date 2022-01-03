@@ -34,7 +34,8 @@ function Hero() {
           <HeroRight>
             <Image
               src={myImg}
-              alt="man-svgrepo"
+              alt="profile image of Alice"
+              className="profileImg"
             />
           </HeroRight>
         </HeroWrapper>
