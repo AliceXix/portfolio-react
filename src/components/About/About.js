@@ -4,14 +4,12 @@ import { stackList,
   stackListInterest,
 } from "../../data/ProjectData";
 import {
-  Image,
   Technologies,
   Tech,
   TechImg,
   TechName,
   ContactWrapper,
 } from "./AboutElements";
-import img from "../../Assets/img_3565.jpg"
 
 function About() {
   return (
