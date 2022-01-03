@@ -64,6 +64,10 @@ video {
   max-width: 100%;
 }
 
+.profileImg {
+  border-radius: 1%;
+}
+
 .btn {
   border: 2px solid rgb(57, 134, 250);
   padding: 10px 1rem;
