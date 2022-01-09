@@ -3,30 +3,37 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "project - fliperz.jpeg",
-    title: "Fliperz",
-    description: "Bootcamp project after 2 weeks. Fliperz is a flashcard based learning game.",
-    tech_stack: "HTML, CSS, JavaScript",
-    github_url: "https://github.com/AliceXix/learning-game-flashcards",
-    demo_url: "https://alicexix.github.io/learning-game-flashcards/",
+    img: "project - memoriez.png",
+    title: "Memoriez",
+    description: "Personal project. Targets people with anxiety, fear of abandonment, etc and allows them to collect memories with people in their social environment in order to calm themselves when having episodes. - IN CONSTRUCTION, DEMO NOT YET AVAILABLE, STAY TUNED -",
+    tech_stack: "React, Node, Express, Mongo, RESTful API, Jest, TypeScript",
+    github_url: "https://github.com/AliceXix/Memoriez"
   },
   {
     img: "project - moodshaker.jpeg",
     title: "Moodshaker",
     description:
       "Bootcamp project after 5 weeks. With Moodshaker you get activity ideas tailored to how you feel.",
-    tech_stack: "HTML, CSS, JavaScript, Handelbars, Express, Node, MongoDB",
-    github_url: "https://github.com/AliceXix/moodshaker",
+    tech_stack: "HTML, CSS, JavaScript, Handelbars, Express, Node, Mongo",
+    github_url: "https://mood-shaker.herokuapp.com/",
     demo_url: "https://mood-shaker.herokuapp.com",
   },
   {
     img: "project - social gratitude.jpeg",
     title: "Social Gratitude",
     description: "Bootcamp project after 7,5 weeks. Social Gratitude let's you share what you are grateful for with your social environment.",
-    tech_stack: "React, CSS, JavaScript, Express, Node, MongoDB, RESTful API",
+    tech_stack: "React, CSS, JavaScript, Express, Node, Mongo, RESTful API",
     github_url: "https://github.com/Alice-Nekruz/social-gratitude-server",
     demo_url: "https://social-gratitude.netlify.app",
   },
+  {
+    img: "project - fliperz.jpeg",
+    title: "Fliperz",
+    description: "Bootcamp project after 2 weeks. Fliperz is a flashcard based learning game.",
+    tech_stack: "HTML, CSS, JavaScript",
+    github_url: "https://github.com/AliceXix/learning-game-flashcards",
+    demo_url: "https://alicexix.github.io/learning-game-flashcards/",
+  }
 ];
 
 // --------------------------------------- Skills
