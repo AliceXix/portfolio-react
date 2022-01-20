@@ -10,7 +10,7 @@ import {
   ScrollDown,
   ScrollLink,
 } from "./HeroElements";
-import myImg from "../../Assets/img_3565.jpg";
+import myImg from "../../Assets/profileimg.png";
 
 function Hero() {
   const [isOpen, setIsOpen] = useState(false);
