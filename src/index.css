@@ -66,6 +66,7 @@ video {
 
 .profileImg {
   border-radius: 1%;
+  min-width: 20%;
 }
 
 .btn {
