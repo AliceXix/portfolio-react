@@ -26,7 +26,7 @@ const Header = ({ toggle }) => {
         </NavMenu>
         <NavBtn>
           <a
-            className="btn PrimaryBtn"
+            className="btn darkBtn"
             href={application}
             target="_blank"
             rel="noopener noreferrer"

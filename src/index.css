@@ -72,25 +72,32 @@ video {
 .btn {
   border: 2px solid rgb(57, 134, 250);
   padding: 10px 1rem;
-  border-radius: 5px;
+  border-radius: 400px;
   cursor: pointer;
   transition: all 0.2s ease-in-out;
   font-weight: 400;
   outline: none;
+  border-color: unset;
+}
+
+.darkBtn {
+  border-color: unset;
+  color: #f6f6f6;
 }
 
 .PrimaryBtn {
-  background: rgb(57, 134, 250);
-  color: #f6f6f6;
+  border-color: unset;
+  color: #fff;
+  background-color: #151418;
 }
 
 .PrimaryBtn:hover {
   background: #fff;
-  color: #010606;
+  color: #151418;
 }
 
 .SecondarBtn:hover {
-  background: rgb(57, 134, 250);
+  background: #151418;
   color: #fff;
 }
 
@@ -140,8 +147,14 @@ video {
   font-weight: 700;
   margin-bottom: 3.5rem;
 }
+
 .ProjectWrapper {
   margin-top: -1rem;
+}
+
+.project-img {
+  all: unset;
+  max-width: 100%;
 }
 
 /* ------------------------------------ Media for Container */

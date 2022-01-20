@@ -10,7 +10,7 @@ export const ProjectList = [
     github_url: "https://github.com/AliceXix/Memoriez"
   },
   {
-    img: "project - moodshaker.jpeg",
+    img: "project - moodshaker.png",
     title: "Moodshaker",
     description:
       "Bootcamp project after 5 weeks. With Moodshaker you get activity ideas tailored to how you feel.",
