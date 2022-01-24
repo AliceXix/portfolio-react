@@ -22,7 +22,7 @@ const Social = styled.div`
     color: rgb(119, 119, 121);
     transition: 0.2s ease-in;
     &:hover {
-      color: rgb(57, 134, 250);
+      color: #151418;
     }
   }
 
