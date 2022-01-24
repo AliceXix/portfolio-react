@@ -21,20 +21,27 @@ function About() {
             Hi there! I'm <strong>Alice</strong>!
             <br></br>
             <br></br>
+            <br></br>
             I come form a sports, outdoor and teaching background.
             <br></br>
-            It was a long way for me to get where I am, but what matters to me from the begging on, is to be able to do something I burn for and to feel free which for me reflects in being able to physically be where I want to.
             <br></br>
-            I always have had a certain fascination for technologies and especially code. Due to my background and social environment at the time, I never got closer to this field.
-            <br></br>
-            Now after many years I have grown and found the courage and the voice to dive into web development.
-            <br></br>
-            I found an internship in a start-up for about seven months. Not only did I realize how deep my fascination for not only code but the entire concept of web development is, but also got to discover and impact many other fields that are necessary for a strong company base.
-            <br></br>
-            After this I enrolled and successfully graduated from a fullstack web development bootcamp where I could rediscover my love for learning as well as learn many valuable technologies and get hands on experience.
+            It was a long way for me to get where I am, but what matters to me from the begging on, is to be able to do <strong>something I burn for</strong> and to feel free which for me reflects in being able to physically be where I want to.
             <br></br>
             <br></br>
-            And all of this to say I guess, I love what I do, I gave a lot to be able to do it on a daily basis and I want to find a match in a company that values my thrive for knowledge.
+            I always have had a certain <strong>fascination for technologies and especially code</strong>. Due to my background and social environment at the time, I never got closer to this field.
+            <br></br>
+            <br></br>
+            Now after many years <strong>I have grown</strong> and found the courage and the voice to dive into web development.
+            <br></br>
+            <br></br>
+            I found an internship in a start-up for about seven months. <strong>Not only did I realize how deep my fascination for not only code but the entire concept of web development is</strong>, but also got to discover and impact many other fields that are necessary for a strong company base.
+            <br></br>
+            <br></br>
+            After this <strong>I enrolled and successfully graduated from a fullstack web development bootcamp</strong> where I could <strong>rediscover my love for learning as well as learn many valuable technologies and get hands on experience</strong>.
+            <br></br>
+            <br></br>
+            <br></br>
+            And all of this to say I guess, <strong>I love what I do, I gave a lot to be able to do it on a daily basis</strong> and I want to find a match in a company that values my thrive for knowledge.
           </div>
           <br></br>
           <br></br>
