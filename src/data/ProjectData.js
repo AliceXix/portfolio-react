@@ -15,7 +15,7 @@ export const ProjectList = [
     description:
       "Bootcamp project after 5 weeks. With Moodshaker you get activity ideas tailored to how you feel.",
     tech_stack: "HTML, CSS, JavaScript, Handelbars, Express, Node, Mongo",
-    github_url: "https://mood-shaker.herokuapp.com/",
+    github_url: "https://github.com/French-Connection-Ironhack/moodshaker",
     demo_url: "https://mood-shaker.herokuapp.com",
   },
   {
