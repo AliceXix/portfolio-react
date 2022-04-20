@@ -40,20 +40,20 @@ export const ProjectList = [
 
 export const stackList = [
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/html5.svg",
-    name: "HTML",
-  },
-  {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/css3.svg",
-    name: "CSS",
-  },
-  {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/javascript.svg",
     name: "JavaScript",
   },
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/react.svg",
     name: "React classes",
+  },
+  {
+    img: "logos/react-hooks_logo.png",
+    name: "React Hooks"
+  },
+  {
+    img: "logos/Typescript_logo.svg",
+    name: "TypeScript"
   },
   {
     img: "logos/nodejs_logo.svg",
@@ -68,12 +68,20 @@ export const stackList = [
     name: "MongoDB"
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/git.svg",
-    name: "Git",
-  },
-  {
     img: "logos/rest-api.png",
     name: "RESTful API",
+  },
+  {
+    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/html5.svg",
+    name: "HTML",
+  },
+  {
+    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/css3.svg",
+    name: "CSS",
+  },
+  {
+    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/git.svg",
+    name: "Git",
   },
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/responsive.svg",
@@ -86,14 +94,6 @@ export const stackList = [
 ];
 
 export const stackListLearning = [
-  {
-    img: "logos/react-hooks_logo.png",
-    name: "React Hooks"
-  },
-  {
-    img: "logos/Typescript_logo.svg",
-    name: "TypeScript"
-  },
   {
     img: "logos/TDD_logo.webp",
     name: "TDD"
@@ -109,6 +109,10 @@ export const stackListLearning = [
 ]
 
 export const stackListInterest = [
+  {
+    img: "logos/python.png",
+    name: "Python"
+  },
   {
     img: "logos/AWS_logo.png",
     name: "AWS"
