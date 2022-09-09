@@ -31,14 +31,21 @@ function ProjectCard() {
               >
                 Github
               </a>
-              <a
+              {list.demo_url ? <a
                 className="btn PrimaryBtn"
                 href={list.demo_url}
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 Demo ➜
-              </a>
+              </a> : <a
+                className="btn PrimaryBtn"
+                href={list.demo_url}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Demo coming soon
+              </a>}
             </BtnGroup>
           </CardRight>
         </Card>
