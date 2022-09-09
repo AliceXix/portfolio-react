@@ -99,6 +99,10 @@ export const stackListLearning = [
     name: "TDD"
   },
   {
+    img: "logos/docker_logo.png",
+    name: "Docker"
+  },
+  {
     img: "logos/jest_logo.jpeg",
     name: "Jest"
   },
@@ -116,10 +120,6 @@ export const stackListInterest = [
   {
     img: "logos/AWS_logo.png",
     name: "AWS"
-  },
-  {
-    img: "logos/docker_logo.png",
-    name: "Docker"
   },
   {
     img: "logos/postgresql_logo.jpg",
