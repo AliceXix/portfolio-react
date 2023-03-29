@@ -16,7 +16,7 @@ export const ProjectList = [
       "Bootcamp project after 5 weeks. With Moodshaker you get activity ideas tailored to how you feel.",
     tech_stack: "HTML, CSS, JavaScript, Handelbars, Express, Node, Mongo",
     github_url: "https://github.com/French-Connection-Ironhack/moodshaker",
-    demo_url: "https://mood-shaker.herokuapp.com",
+    //demo_url: "https://mood-shaker.herokuapp.com",
   },
   {
     img: "project - social gratitude.jpeg",
@@ -24,7 +24,7 @@ export const ProjectList = [
     description: "Bootcamp project after 7,5 weeks. Social Gratitude let's you share what you are grateful for with your social environment.",
     tech_stack: "React, CSS, JavaScript, Express, Node, Mongo, RESTful API",
     github_url: "https://github.com/Alice-Nekruz/social-gratitude-server",
-    demo_url: "https://social-gratitude.netlify.app",
+    //demo_url: "https://social-gratitude.netlify.app",
   },
   {
     img: "project - fliperz.jpeg",
