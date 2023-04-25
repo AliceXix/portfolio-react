@@ -91,6 +91,10 @@ export const stackList = [
     img: "logos/agile_logo.jpg",
     name: "Agile"
   },
+  {
+    img: "logos/docker_logo.png",
+    name: "Docker"
+  },
 ];
 
 export const stackListLearning = [
