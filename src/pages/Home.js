@@ -5,11 +5,13 @@ import About from "../components/About/About";
 import Contact from "../components/Contact/Contact";
 import Footer from "../components/Footer/Footer";
 import FixSocialIcon from "../components/SocialIcon/FixSocialIcon";
+import Designs from "../components/Designs/Designs";
 function Home() {
   return (
     <>
       <Hero />
       <Projects />
+      <Designs />
       <About />
       <Contact />
       <Footer />
