@@ -1,5 +1,5 @@
 import React from "react";
-import { ProjectList } from "../../../data/DesignData";
+import { DesignList } from "../../../data/DesignData";
 import {
     Card,
     CardLeft,
@@ -10,7 +10,7 @@ import {
 function DesignCard() {
     return (
         <>
-            {ProjectList.map((list, index) => (
+            {DesignList.map((list, index) => (
                 <Card key={index}>
                     <CardLeft>
                         <img src={list.img} alt={list.name} />
