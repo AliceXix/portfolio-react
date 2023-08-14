@@ -98,6 +98,10 @@ export const stackList = [
 ];
 
 export const stackListLearning = [
+    {
+        img: "logos/python.png",
+        name: "Python"
+    },
   {
     img: "logos/TDD_logo.webp",
     name: "TDD"
@@ -117,10 +121,6 @@ export const stackListLearning = [
 ]
 
 export const stackListInterest = [
-  {
-    img: "logos/python.png",
-    name: "Python"
-  },
   {
     img: "logos/AWS_logo.png",
     name: "AWS"
