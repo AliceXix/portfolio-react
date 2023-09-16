@@ -18,30 +18,26 @@ function About() {
         <div className="SectionTitle">About Me</div>
         <div className="BigCard">
           <div className="AboutBio">
-            Hi there! I'm <strong>Alice</strong>!
+            Hey, coding comrades! I'm <strong>Alice</strong>!
             <br></br>
             <br></br>
             <br></br>
-            I come form a sports, outdoor and teaching background.
+            and before I dive into the exciting world of software development, let me rewind a bit. Born and raised in the charming land of France, I've been riding the ski slopes since for ever and for a cool six years teaching folks how to master the mountains.
             <br></br>
             <br></br>
-            It was a long way for me to get where I am, but what matters to me from the begging on, is to be able to do <strong>something I burn for</strong> and to feel free which for me reflects in being able to physically be where I want to.
+                      But here's where the plot thickens – picture me two years ago, stumbling into a coding <strong>bootcamp</strong> like I'd just hit a double black diamond run blindfolded. Surprise! I rediscovered my passion for learning, and it turns out I've got a secret love affair with software development that's as thrilling as a downhill race.
             <br></br>
             <br></br>
-            I always have had a certain <strong>fascination for technologies and especially code</strong>. Due to my background and social environment at the time, I never got closer to this field.
+            You see, my background isn't just about conquering ski runs; it's a tale of sports and outdoor adventures that set the stage for my journey into the digital wilderness.
             <br></br>
             <br></br>
-            Now after many years <strong>I have grown</strong> and found the courage and the voice to dive into web development.
+                      <strong>I'm not your average coder</strong>; I'm more like a coding wizard, on a quest for knowledge, brewing up creative solutions. I firmly believe in asking a zillion questions, because, in coding, it's better to have too many answers than to let a bug party go unchecked!
             <br></br>
             <br></br>
-            I found an internship in a start-up for about seven months. <strong>Not only did I realize how deep my fascination for not only code but the entire concept of web development is</strong>, but also got to discover and impact many other fields that are necessary for a strong company base.
+            Now, here's the punchline: I'm a firm believer that every individual has a unique spark, just waiting for the right code to ignite it. And creating the perfect coding environment? Well, that's a team sport, my friends.
             <br></br>
             <br></br>
-            After this <strong>I enrolled and successfully graduated from a fullstack web development bootcamp</strong> where I could <strong>rediscover my love for learning as well as learn many valuable technologies and get hands on experience</strong>.
-            <br></br>
-            <br></br>
-            <br></br>
-            And all of this to say I guess, <strong>I love what I do, I gave a lot to be able to do it on a daily basis</strong> and I want to find a match in a company that values my thrive for knowledge.
+                      So, whether it's carving up slopes, crafting code, or kindling the flames of creativity, I'm all in. Let's embark on this journey together, because when you combine a love for adventure with a newfound passion for software development, <strong>there's no limit to what we can achieve</strong>.
           </div>
           <br></br>
           <br></br>
