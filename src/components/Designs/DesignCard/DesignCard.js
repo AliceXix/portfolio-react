@@ -20,30 +20,30 @@ function DesignCard() {
                         <p>{list.description}</p>
                         <Stack>
                             {list.img_credit ?
-                            <div><span className="stackTitle">Image credit -</span> <span className="tags">{list.img_credit}</span></div>
-                            :
-                            <div></div>}
+                                <div><span className="stackTitle">Image credit</span> <span className="tags">{list.img_credit}</span></div>
+                                :
+                                <div></div>}
 
                         </Stack>
                         <BtnGroup>
                             {list.figma_url ?
-                            <a
-                                className="btn PrimaryBtn"
-                                href={list.figma_url}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
-                                Figma ➜
-                            </a>
-                            :
-                            <a
-                                className="btn PrimaryBtn"
+                                <a
+                                    className="btn PrimaryBtn"
                                     href={list.figma_url}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
-                                Figma coming soon
-                            </a>}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                >
+                                    Figma ➜
+                                </a>
+                                :
+                                <a
+                                    className="btn PrimaryBtn"
+                                    href={list.figma_url}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                >
+                                    Figma coming soon
+                                </a>}
                         </BtnGroup>
                     </CardRight>
                 </Card>
