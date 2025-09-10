@@ -16,7 +16,7 @@ export const ProjectList = [
     {
         img: "project - memoriez.png",
         title: "Memoriez",
-        description: "Personal project. Targets people with anxiety, fear of abandonment, etc and allows them to collect memories with people in their social environment in order to calm themselves when having episodes. - IN CONSTRUCTION, DEMO NOT YET AVAILABLE, STAY TUNED -",
+        description: "Personal project. Targets people with anxiety, fear of abandonment, etc and allows them to collect memories with people in their social environment in order to calm themselves when having episodes.",
         tech_stack: "React, Node, Express, Mongo, RESTful API, Jest, TypeScript",
         github_url: "https://github.com/AliceXix/Memoriez"
     },
