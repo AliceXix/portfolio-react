@@ -10,14 +10,6 @@ export const DesignList = [
         figma_url: "https://www.figma.com/file/XDGpFLeGCgcfFSLwzZpN1e/Music-Band-Website---public?type=design&node-id=0%3A1&mode=design&t=gA6kUQPKZ6KnnEWa-1"
     },
     {
-        img: "Portfolio - d1.png",
-        title: "Portfolio",
-        description:
-            "Design of a portfolio with contact form for a tattoo artist. Displayed here the main view.",
-        img_credit: "Solanum Bean - Tattoo artist",
-        figma_url: "https://www.figma.com/file/mCbdyJuTElI4FYw3kIIISK/Portfolio---public?type=design&node-id=0%3A1&mode=design&t=gA6kUQPKZ6KnnEWa-1"
-    },
-    {
         img: "Growth platform - d1.png",
         title: "Growth platform",
         description: "Design done in the context of a Hackathon of a webapplication to enable employees to help each other grow as well in their soft skills than in their hard skills. Displayed here the main view.",
